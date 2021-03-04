@@ -9,6 +9,8 @@
 
 ## Command remembers
 
+### Lession 9
+
 - Open terminal command windows: Ctrl + `
 - npm init or yarn init
 - git init
@@ -19,3 +21,7 @@
 - git config --global core.editor "'C:\Program Files\Notepad++\notepad++.exe' -multiInst -nosession"
 - git remote add origin https://github.com/Vtrungnguyen/tedu_social.git
 - git push -u origin main
+
+### Lession 10
+
+- tsc --init
